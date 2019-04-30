@@ -22,7 +22,6 @@ function currentLine(line) {
     string = string + `${i+1}. ${line[i]}`;
     return string;
   }
-console.log('hello')
 }
 
 
